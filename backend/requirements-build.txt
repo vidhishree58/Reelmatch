@@ -1,0 +1,3 @@
+# Sirf model dobara banane ke liye (deploy ke liye zaroorat nahi)
+pandas
+scikit-learn
