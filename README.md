@@ -2,7 +2,7 @@
 
 A full-stack movie discovery app. Browse thousands of movies, search by title, and open any movie to see its details along with **similar movies** recommended by a content-based machine learning model.
 
-**Live demo:** _add your Netlify URL here after deployment_
+**Live demo:** https://reelmatch-movies.netlify.app/
 
 ## Features
 
